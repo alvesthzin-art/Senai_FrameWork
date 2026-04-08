@@ -1,33 +1,61 @@
-🚀 Projeto Senai Jandira - Meu Primeiro Framework (PicoCSS)
-Este repositório contém um projeto desenvolvido para praticar conceitos de HTML e CSS, marcando minha primeira experiência utilizando um framework CSS: o PicoCSS.
+O Pico.css é um framework fantástico porque ele é "minimalista por natureza". Para o seu README, vamos destacar exatamente essa sua primeira experiência com frameworks, focando na simplicidade e na elegância que o Pico proporciona.
 
-📌 Sobre o Projeto
-O objetivo principal foi criar uma interface simples e elegante para representar o lema do Senai Jandira, focando na aplicação de estilos modernos de forma rápida e eficiente.
+Aqui está o código formatado para o seu repositório Senai_FrameWork:
 
-A frase em destaque é: "Aprende fazendo, faz sabendo".
+Markdown
+# 🎨 Senai Jandira - Meu Primeiro Framework (Pico.css)
 
-🛠️ Tecnologias Utilizadas
-HTML5: Estruturação do conteúdo.
+<p align="center">
+  <img src="https://img.shields.io/badge/Pico.css-11111B?style=for-the-badge&logo=picocss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-PicoCSS: Framework CSS minimalista utilizado para estilização base e responsividade.
+---
 
-CSS3 Customizado: Utilizado para ajustes específicos de posicionamento, cores institucionais e tipografia.
+## 🚀 Sobre o Projeto
 
-💡 Aprendizados com PicoCSS
-Nesta primeira experiência com frameworks, pude observar como o PicoCSS:
+Este projeto marca minha primeira experiência utilizando um framework CSS. O objetivo foi criar uma interface moderna e limpa para representar o tema do **Senai Jandira**, aplicando o conceito de "Aprende fazendo, faz sabendo".
 
-1 - Simplifica o desenvolvimento: Ele estiliza tags HTML nativas sem a necessidade de centenas de classes.
+Diferente do CSS tradicional, o uso do **Pico.css** permitiu focar na estrutura semântica do HTML, enquanto o framework cuidava automaticamente do design e da responsividade.
 
-2 - Suporte nativo ao Dark Mode: Ele já vem preparado para alternar entre temas claro e escuro automaticamente.
+---
 
-3 - Leveza: Ideal para projetos que precisam de um visual limpo sem o peso de frameworks maiores como Bootstrap.
+## 🛠️ Tecnologias e Aprendizados
 
-🎨 Estilização Customizada
-Apesar de usar o framework, apliquei estilos personalizados para alinhar o design à identidade visual do projeto:
+### Por que Pico.css? 💡
+Durante o desenvolvimento, pude observar as principais vantagens de utilizar este framework:
 
-Cores: Uso da cor institucional #da251c.
+* **Estilização Automática:** Ele estiliza as tags HTML nativas (`<nav>`, `<main>`, `<button>`) sem a necessidade de centenas de classes.
+* **Dark Mode Nativo:** Suporte automático para temas claro e escuro.
+* **Leveza:** Ideal para projetos que precisam de um visual profissional sem o peso de frameworks gigantes como o Bootstrap.
 
-Posicionamento: Uso de position: absolute para sobrepor elementos de texto de forma dinâmica.
+### Customizações Aplicadas
+Mesmo usando um framework, apliquei CSS customizado para manter a identidade visual do projeto:
+* **Cores Institucionais:** Uso do tom `#da251c` (vermelho Senai).
+* **Posicionamento:** Ajustes finos com `position: absolute` para sobreposição de elementos.
+* **Tipografia:** Ênfase visual em palavras-chave para melhor leitura.
 
-Destaques: Criação de classes .destacada para ênfase visual nas palavras-chave.
+---
 
+## 📂 Estrutura do Repositório
+
+```text
+├── css/                # Estilos adicionais
+├── img/                # Logos e imagens do projeto
+├── index.html          # Estrutura principal com Pico.css
+└── style.css           # Personalização de cores e posições
+```
+------------------------------------
+
+👨‍💻 Desenvolvedor
+<table style="border: none;">
+<tr>
+<td align="center">
+<a href="#">
+<img src="https://github.com/alvesthzin-art.png" width="100px;" alt="Avatar"/><br />
+<sub><b>@alvesthzin-art</b></sub>
+</a>
+</td>
+</tr>
+</table>
